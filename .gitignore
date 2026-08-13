@@ -1,0 +1,5 @@
+PBUpdaterUpdate.zip
+index.html
+# 也可以順便過濾掉 OneDrive 的暫存檔與系統檔
+.849C9593*
+desktop.ini
